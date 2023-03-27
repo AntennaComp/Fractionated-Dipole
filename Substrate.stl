@@ -1,0 +1,86 @@
+solid Fractionated Dipole/FractionatedDipole:PCB
+  facet normal -1.009686e-07 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 2.000000e+01 2.716000e+02 1.579911e+02
+      vertex 2.000000e+01 2.716000e+02 -1.580089e+02
+      vertex -2.000000e+01 2.716000e+02 1.579911e+02
+    endloop
+  endfacet
+  facet normal 3.518242e+34 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 2.716000e+02 1.579911e+02
+      vertex 2.000000e+01 2.716000e+02 -1.580089e+02
+      vertex -2.000000e+01 2.716000e+02 -1.580089e+02
+    endloop
+  endfacet
+  facet normal 1.991255e-38 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 2.700000e+02 1.579911e+02
+      vertex 2.000000e+01 2.700000e+02 1.579911e+02
+      vertex -2.000000e+01 2.716000e+02 1.579911e+02
+    endloop
+  endfacet
+  facet normal -7.812067e+18 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 2.716000e+02 1.579911e+02
+      vertex 2.000000e+01 2.700000e+02 1.579911e+02
+      vertex 2.000000e+01 2.716000e+02 1.579911e+02
+    endloop
+  endfacet
+  facet normal 1.862542e+12 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 2.716000e+02 -1.580089e+02
+      vertex 2.000000e+01 2.716000e+02 -1.580089e+02
+      vertex -2.000000e+01 2.700000e+02 -1.580089e+02
+    endloop
+  endfacet
+  facet normal -5.629187e+35 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 2.700000e+02 -1.580089e+02
+      vertex 2.000000e+01 2.716000e+02 -1.580089e+02
+      vertex 2.000000e+01 2.700000e+02 -1.580089e+02
+    endloop
+  endfacet
+  facet normal -7.965018e-38 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 2.000000e+01 2.700000e+02 1.579911e+02
+      vertex 2.000000e+01 2.700000e+02 -1.580089e+02
+      vertex 2.000000e+01 2.716000e+02 1.579911e+02
+    endloop
+  endfacet
+  facet normal -1.953017e+18 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 2.000000e+01 2.716000e+02 1.579911e+02
+      vertex 2.000000e+01 2.700000e+02 -1.580089e+02
+      vertex 2.000000e+01 2.716000e+02 -1.580089e+02
+    endloop
+  endfacet
+  facet normal -5.497253e+32 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 2.700000e+02 1.579911e+02
+      vertex -2.000000e+01 2.700000e+02 -1.580089e+02
+      vertex 2.000000e+01 2.700000e+02 1.579911e+02
+    endloop
+  endfacet
+  facet normal 1.776258e+06 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 2.000000e+01 2.700000e+02 1.579911e+02
+      vertex -2.000000e+01 2.700000e+02 -1.580089e+02
+      vertex 2.000000e+01 2.700000e+02 -1.580089e+02
+    endloop
+  endfacet
+  facet normal 5.368412e+29 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 2.716000e+02 1.579911e+02
+      vertex -2.000000e+01 2.716000e+02 -1.580089e+02
+      vertex -2.000000e+01 2.700000e+02 1.579911e+02
+    endloop
+  endfacet
+  facet normal 2.524215e-08 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -2.000000e+01 2.700000e+02 1.579911e+02
+      vertex -2.000000e+01 2.716000e+02 -1.580089e+02
+      vertex -2.000000e+01 2.700000e+02 -1.580089e+02
+    endloop
+  endfacet
+endsolid Fractionated Dipole/FractionatedDipole:PCB

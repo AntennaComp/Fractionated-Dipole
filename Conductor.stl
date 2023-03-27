@@ -1,0 +1,86 @@
+solid Fractionated Dipole/FractionatedDipole:FractionatedDipole
+  facet normal 1.192027e+14 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+00 2.716000e+02 -1.520089e+02
+      vertex 5.000000e+00 2.716000e+02 -1.080089e+02
+      vertex -5.000000e+00 2.716000e+02 -1.520089e+02
+    endloop
+  endfacet
+  facet normal -5.739400e-21 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+00 2.716000e+02 -1.520089e+02
+      vertex 5.000000e+00 2.716000e+02 -1.080089e+02
+      vertex -5.000000e+00 2.716000e+02 -1.080089e+02
+    endloop
+  endfacet
+  facet normal -1.336308e-30 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+00 2.716000e+02 1.991060e+00
+      vertex 5.000000e+00 2.716000e+02 4.599106e+01
+      vertex -5.000000e+00 2.716000e+02 1.991060e+00
+    endloop
+  endfacet
+  facet normal -3.944086e-10 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+00 2.716000e+02 1.991060e+00
+      vertex 5.000000e+00 2.716000e+02 4.599106e+01
+      vertex -5.000000e+00 2.716000e+02 4.599106e+01
+    endloop
+  endfacet
+  facet normal 1.374313e+32 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+00 2.716000e+02 -4.600894e+01
+      vertex 5.000000e+00 2.716000e+02 -2.008940e+00
+      vertex -5.000000e+00 2.716000e+02 -4.600894e+01
+    endloop
+  endfacet
+  facet normal -2.910222e+10 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+00 2.716000e+02 -4.600894e+01
+      vertex 5.000000e+00 2.716000e+02 -2.008940e+00
+      vertex -5.000000e+00 2.716000e+02 -2.008940e+00
+    endloop
+  endfacet
+  facet normal 9.183041e-20 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+00 2.716000e+02 -9.600894e+01
+      vertex 5.000000e+00 2.716000e+02 -5.800894e+01
+      vertex -5.000000e+00 2.716000e+02 -9.600894e+01
+    endloop
+  endfacet
+  facet normal 5.219954e-33 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+00 2.716000e+02 -9.600894e+01
+      vertex 5.000000e+00 2.716000e+02 -5.800894e+01
+      vertex -5.000000e+00 2.716000e+02 -5.800894e+01
+    endloop
+  endfacet
+  facet normal 9.403434e-17 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+00 2.716000e+02 1.079911e+02
+      vertex 5.000000e+00 2.716000e+02 1.519911e+02
+      vertex -5.000000e+00 2.716000e+02 1.079911e+02
+    endloop
+  endfacet
+  facet normal 3.761373e-16 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+00 2.716000e+02 1.079911e+02
+      vertex 5.000000e+00 2.716000e+02 1.519911e+02
+      vertex -5.000000e+00 2.716000e+02 1.519911e+02
+    endloop
+  endfacet
+  facet normal 1.136805e+08 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 5.000000e+00 2.716000e+02 5.799106e+01
+      vertex 5.000000e+00 2.716000e+02 9.599106e+01
+      vertex -5.000000e+00 2.716000e+02 5.799106e+01
+    endloop
+  endfacet
+  facet normal 8.388143e+27 0.000000e+00 0.000000e+00
+    outer loop
+      vertex -5.000000e+00 2.716000e+02 5.799106e+01
+      vertex 5.000000e+00 2.716000e+02 9.599106e+01
+      vertex -5.000000e+00 2.716000e+02 9.599106e+01
+    endloop
+  endfacet
+endsolid Fractionated Dipole/FractionatedDipole:FractionatedDipole
